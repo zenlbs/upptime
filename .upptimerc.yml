@@ -9,7 +9,7 @@ sites:
     url: https://hris.goldenadgroup.vn/api/proxy/healthz
   - name: SNS API Production
     url: https://sns-tools.fly.dev/healthz
-  - name: Hardtech API Production
+  - name: Hardtech API Productglion
     url: https://hardtech-api.zenlabs.gg/healthz
   
 status-website:
@@ -22,11 +22,17 @@ status-website:
   name: Zenlabs Status Hub
   introTitle: "Welcome to the Zenlabs Status Hub"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/zenlbs/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/zenlbs/upptime
+  theme: light
+  
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
+  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
