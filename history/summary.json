@@ -54,21 +54,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Hardtech API Production",
+    "name": "Hardtech API Productglion",
     "url": "https://hardtech-api.zenlabs.gg/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/hardtech-api.zenlabs.gg.ico",
-    "slug": "hardtech-api-production",
+    "slug": "hardtech-api-productglion",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 776,
-    "timeWeek": 776,
-    "timeMonth": 776,
-    "timeYear": 776,
+    "time": 982,
+    "timeDay": 982,
+    "timeWeek": 982,
+    "timeMonth": 982,
+    "timeYear": 982,
     "dailyMinutesDown": {}
   }
 ]
