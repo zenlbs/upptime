@@ -6,7 +6,7 @@ sites:
   - name: WOM API Production
     url: https://wom-api.goldenadgroup.vn/healthz
   - name: HRIS API Production
-    url: https://hris.goldenadgroup.vn/api/proxy/healthz
+    url: https://hris-api.goldenadgroup.vn/healthz
   - name: SNS API Production
     url: https://sns-tools.fly.dev/healthz
   - name: Hardtech API Productglion
