@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1453,
-    "timeDay": 1592,
-    "timeWeek": 1366,
-    "timeMonth": 1453,
-    "timeYear": 1453,
+    "time": 1444,
+    "timeDay": 1319,
+    "timeWeek": 1319,
+    "timeMonth": 1444,
+    "timeYear": 1444,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1382,
-    "timeDay": 1587,
-    "timeWeek": 1323,
-    "timeMonth": 1382,
-    "timeYear": 1382,
+    "time": 1371,
+    "timeDay": 1192,
+    "timeWeek": 1288,
+    "timeMonth": 1371,
+    "timeYear": 1371,
     "dailyMinutesDown": {
       "2025-12-12": 21
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sns-tools.fly.dev.ico",
     "slug": "sns-api-production",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 3262,
-    "timeDay": 3110,
-    "timeWeek": 5060,
-    "timeMonth": 3262,
-    "timeYear": 3262,
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3203,
+    "timeDay": 2263,
+    "timeWeek": 5004,
+    "timeMonth": 3203,
+    "timeYear": 3203,
     "dailyMinutesDown": {
       "2025-12-09": 7
     }
@@ -63,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hardtech-api.zenlabs.gg.ico",
     "slug": "hardtech-api-productglion",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 1022,
-    "timeWeek": 911,
-    "timeMonth": 911,
-    "timeYear": 911,
+    "uptime": "93.69%",
+    "uptimeDay": "15.70%",
+    "uptimeWeek": "87.96%",
+    "uptimeMonth": "93.69%",
+    "uptimeYear": "93.69%",
+    "time": 903,
+    "timeDay": 916,
+    "timeWeek": 887,
+    "timeMonth": 903,
+    "timeYear": 903,
     "dailyMinutesDown": {
-      "2025-12-21": 0
+      "2025-12-22": 68,
+      "2025-12-21": 1146
     }
   }
 ]
