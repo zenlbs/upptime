@@ -1,7 +1,7 @@
 url: https://wom-api.goldenadgroup.vn/healthz
-status: down
-code: 503
-responseTime: 5793
-lastUpdated: 2026-01-06T04:58:42.802Z
+status: up
+code: 200
+responseTime: 1573
+lastUpdated: 2026-01-06T05:34:17.325Z
 startTime: 2025-12-08T13:17:45.286Z
 generator: Upptime <https://github.com/upptime/upptime>
