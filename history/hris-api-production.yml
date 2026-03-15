@@ -1,7 +1,7 @@
 url: https://hris-api.goldenadgroup.vn/healthz
-status: up
-code: 200
-responseTime: 1570
-lastUpdated: 2026-03-14T23:18:29.239Z
+status: down
+code: 503
+responseTime: 1350
+lastUpdated: 2026-03-15T15:01:45.813Z
 startTime: 2025-12-08T13:17:47.684Z
 generator: Upptime <https://github.com/upptime/upptime>
